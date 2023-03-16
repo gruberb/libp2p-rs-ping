@@ -2,6 +2,13 @@
 
 Using libp2p and tokio to create a ping server.
 
+## Setup
+
+```bash
+$ git clone git@github.com:gruberb/libp2p-rs-ping.git
+$ cd libp2p-rs-ping
+```
+
 ## Usage
 
 You need to terminal windows. In the first, just start the node via
